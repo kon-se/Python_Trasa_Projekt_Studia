@@ -1,0 +1,11 @@
+Podział Pracy:
+
+Grzegorz Wasążnik:
+Wykonał GUI i połączenie modułów.
+
+Wojciech Dmowski:
+Funkcie odpowiedzialne za cechowanie pól.
+
+Konrad Sejud:
+Trasowanie (wyzanczanie trasy/toru)
+
